@@ -1,6 +1,8 @@
 # Dynamic_partition_tools_for_android
 Command-line tools for work a “super” partition image on android devices
 
+Building requires installed autoconf and libtool: `sudo apt install autoconf libtool`
+
 For build, just run the build script:
 `./build.sh`
 
