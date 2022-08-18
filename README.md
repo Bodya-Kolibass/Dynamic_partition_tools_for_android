@@ -6,3 +6,4 @@ Command-line tools for work a “super” partition image on android devices
 2. Run script for build : `./build.sh`
 
 <img alt="GitHub Releases" src="https://img.shields.io/github/downloads/Bodya-Kolibass/Dynamic_partition_tools_for_android/30.0.2 /total"> 
+<img alt="GitHub Releases" src="https://img.shields.io/github/downloads/Bodya-Kolibass/Dynamic_partition_tools_for_android/33.0.1 /total"> 
