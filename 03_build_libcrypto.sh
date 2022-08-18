@@ -6,7 +6,7 @@ BUILD_DIR=$ROOT_DIR/build
 
 ABIS="armeabi-v7a arm64-v8a"
 
-export ANDROID_NDK=$(pwd)/android-ndk-r21d
+export ANDROID_NDK=$(pwd)/android-ndk-r24
 
 build_shared() {
   arch=$1
